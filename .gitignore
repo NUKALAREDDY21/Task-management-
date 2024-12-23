@@ -1,0 +1,11 @@
+# dependencies
+node_modules
+
+# misc
+.vscode
+
+# local db
+localDb
+
+# env settings
+.env
